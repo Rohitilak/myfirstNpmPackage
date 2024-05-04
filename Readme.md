@@ -1,0 +1,1 @@
+To find the element in sorted array in logn time
